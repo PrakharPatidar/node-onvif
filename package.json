@@ -1,0 +1,16 @@
+{
+  "name": "ONVIF_NODE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-onvif": "0.1.7",
+    "onvif": "0.6.2"
+  }
+}
